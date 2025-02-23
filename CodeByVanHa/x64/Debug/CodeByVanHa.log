@@ -1,0 +1,9 @@
+﻿  main.cpp
+A:\CodeByVanHa\CodeByVanHa\CodeByVanHa\main.cpp(26,23): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+A:\CodeByVanHa\CodeByVanHa\CodeByVanHa\main.cpp(26,23): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+A:\CodeByVanHa\CodeByVanHa\CodeByVanHa\main.cpp(38,50): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+A:\CodeByVanHa\CodeByVanHa\CodeByVanHa\main.cpp(42,42): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+A:\CodeByVanHa\CodeByVanHa\CodeByVanHa\main.cpp(42,42): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+A:\CodeByVanHa\CodeByVanHa\CodeByVanHa\main.cpp(42,42): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+A:\CodeByVanHa\CodeByVanHa\CodeByVanHa\main.cpp(42,42): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+  CodeByVanHa.vcxproj -> A:\CodeByVanHa\CodeByVanHa\x64\Debug\CodeByVanHa.exe

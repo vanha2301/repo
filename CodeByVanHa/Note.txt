@@ -1,0 +1,7 @@
+từ line 11 đến line 329 là của thông báo note.
+0: date
+1: 15
+2: 30
+3: 1 tieng
+4: 3 tieng
+5: 1 ngay
