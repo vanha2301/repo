@@ -1,0 +1,23 @@
+name: Run C++ Program Continuously
+
+on:  
+  push:  
+  pull_request:  
+  workflow_dispatch:  # Cho phép chạy thủ công  
+
+jobs:  
+  run-cpp:  
+    runs-on: ubuntu-latest  
+
+    steps:  
+      - name: Checkout code  
+        uses: actions/checkout@v3  
+
+      - name: Install g++  
+        run: sudo apt update && sudo apt install -y g++  
+
+      - name: Compile C++ Code  
+        run: g++ -o program main.cpp  
+
+      - name: Run Program  
+        run: ./program  
